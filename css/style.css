@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+
+    margin-top: 56px;
+}
+
+main{
+
+    background-color: #000000;
+    color: lightgray;
+}
+
+.headline{
+    display: flex;
+    padding: 10px 0px 10px 50px;
+    align-items: center;
+}
+
+i{
+    cursor: pointer;
+    pad: 12px;
+}
+.icon-red{
+    color:red;
+}
